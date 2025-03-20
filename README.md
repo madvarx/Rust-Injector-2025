@@ -27,7 +27,7 @@
 - Click "Inject" to start the injection.
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/madvarx/Rust-Injector-2025/releases/tag/Download">
     <img src="https://img.shields.io/badge/Download-Blue?style=for-the-badge&logo=download&logoColor=white" width="350"/>
   </a>
 </p>
